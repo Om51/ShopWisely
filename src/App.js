@@ -5,6 +5,7 @@ import ProductComparisonPage from './ProductComparisonPage';
 import ProductComparisonDetail from './ProductComparisonDetail'; // Import the component
 import DiningListPage from './DiningListPage'; // Import DiningListPage
 import './App.css';
+npm install react-autosuggest
 
 function App() {
   return (
